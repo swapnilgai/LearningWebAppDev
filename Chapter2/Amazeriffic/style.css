@@ -24,9 +24,9 @@ span {
 	color: #0033FF;
 }
 p {
-  min-width: 855px
+  min-width: 855px;
 	background: #CCFFCC;
-  border-style: double  ;
+  border-style: double;
     padding: 7px;
 }
 
