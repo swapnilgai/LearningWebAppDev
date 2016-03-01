@@ -1,0 +1,52 @@
+body {
+    background: #CEF6E3;
+    width: 855px;
+    margin: auto;
+  border-style: none;
+}
+
+h1 {
+    color: maroon;
+    text-align: center;
+    font-style: italic;
+}
+
+h2 {
+	text-align: center;
+  font-style: italic;
+	border: 1px;
+	background: #F4FA58;
+	padding: 7px;
+  border-style: solid;
+}
+span {
+	font-style: italic;
+	color: #0033FF;
+}
+p {
+  min-width: 855px
+	background: #CCFFCC;
+  border-style: double  ;
+    padding: 7px;
+}
+
+main {
+    min-width: 855px;
+    background: #F9FC89;
+}
+
+header {
+    min-width: 855px;
+background:#f9e933;
+}
+
+footer {
+    min-width: 855px;
+background:#FFFFDE;
+}
+
+
+header .container, main .container, footer .container {
+    max-width: 855px;
+    margin: auto;
+}
